@@ -11,7 +11,7 @@ export default function App() {
   const [suggestions, setSuggestions] = useState([]);
   const [loading, setLoading] = useState(false);
 
-  const API_KEY = "e0322369265126e1edc40363662d0b15"; // replace with your new free API key
+  const API_KEY = "YOUR_API_KEY_HERE"; // replace with your API key
 
   const toggleTheme = () => {
     const newTheme = theme === "light" ? "dark" : "light";
