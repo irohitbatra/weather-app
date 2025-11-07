@@ -1,16 +1,120 @@
-# React + Vite
+Weather App 🌤️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and interactive Weather Forecast Application built with React. Get real-time weather details and a 7-day forecast for any city, with a beautiful Light/Dark mode.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+✅ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🌍 Search weather by city
 
-## Expanding the ESLint configuration
+🌤️ Real-time current weather
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📅 7-day advanced forecast
+
+🌗 Light/Dark theme toggle
+
+📱 Fully responsive design
+
+⚡ Fast performance using Vite
+
+
+
+📸 Screenshots
+
+![alt text](image.png)
+---
+
+
+
+
+🛠️ Installation
+
+Clone the repository
+git clone [https://github.com/irohitbatra/weather-app](https://github.com/irohitbatra/weather-app)
+
+cd weather-app
+
+Install dependencies
+npm install
+
+Run the app
+npm run dev
+
+Open the URL shown in terminal (usually http://localhost:5173
+)
+
+
+
+🔑 API Usage
+
+This app uses OpenWeatherMap APIs:
+
+Direct Geocoding API
+
+One Call Weather API
+
+Replace your API key in App.jsx:
+
+const API_KEY = "YOUR_API_KEY";
+
+⚠️ Avoid exposing API keys publicly. Use environment variables in production.
+
+
+
+🧩 Tech Stack
+
+React
+
+Vite
+
+JavaScript (ES6+)
+
+CSS / Custom UI
+
+
+
+🚀 How to Use
+
+Enter a city name in search
+
+Select from dropdown results
+
+Get instant weather + weekly forecast
+
+Switch between Light/Dark mode
+
+🤝 Contributing
+
+Pull requests and improvements are welcome!
+
+📄 License
+
+This project is under the MIT License.
+
+✨ Made with ❤️ by Rohit Batra
+
+CSS
+
+
+
+
+How to Use
+
+Enter a city name
+
+Select a suggestion
+
+View weather details and weekly forecast
+
+Toggle between Light and Dark mode
+
+Contribution
+
+Feel free to open issues or submit pull requests to improve the project.
+
+License
+
+This project is licensed under the MIT License.
+
+Made with ❤️ by Rohit Batra
