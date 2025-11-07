@@ -84,37 +84,16 @@ Get instant weather + weekly forecast
 
 Switch between Light/Dark mode
 
+
+
 🤝 Contributing
 
 Pull requests and improvements are welcome!
 
-📄 License
-
-This project is under the MIT License.
-
-✨ Made with ❤️ by Rohit Batra
-
-CSS
-
-
-
-
-How to Use
-
-Enter a city name
-
-Select a suggestion
-
-View weather details and weekly forecast
-
-Toggle between Light and Dark mode
-
-Contribution
-
-Feel free to open issues or submit pull requests to improve the project.
 
 License
 
 This project is licensed under the MIT License.
+
 
 Made with ❤️ by Rohit Batra
